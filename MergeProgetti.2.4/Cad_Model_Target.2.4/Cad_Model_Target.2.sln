@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cad_Model_Target.2", "Cad_Model_Target.2.csproj", "{678DA35E-638B-398D-9C04-026F4FB1178D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cad_Model_Target.2.Editor", "Cad_Model_Target.2.Editor.csproj", "{7D164959-5AE5-47C0-CEFE-E3EF7157E05C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{678DA35E-638B-398D-9C04-026F4FB1178D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{678DA35E-638B-398D-9C04-026F4FB1178D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{678DA35E-638B-398D-9C04-026F4FB1178D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{678DA35E-638B-398D-9C04-026F4FB1178D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D164959-5AE5-47C0-CEFE-E3EF7157E05C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D164959-5AE5-47C0-CEFE-E3EF7157E05C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D164959-5AE5-47C0-CEFE-E3EF7157E05C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D164959-5AE5-47C0-CEFE-E3EF7157E05C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

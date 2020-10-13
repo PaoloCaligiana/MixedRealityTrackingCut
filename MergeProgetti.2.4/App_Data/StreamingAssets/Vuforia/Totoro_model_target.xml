@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Totoro_model_target"/>
+</Tracking>
+
+<Assembly name="Totoro_model_targets_assembly">
+<Part name="Totoro_model_target" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.00162559 0.0244185 0.144743" rotation="AD: 0.9999999975678352 -0.011079439247089129 -0.009608497268219532 81.8722">
+
+</EntryPoint>
+
+</Assembly>
+</QCARConfig>
