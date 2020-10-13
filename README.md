@@ -6,6 +6,9 @@ tutte le volte che si desidera e registrando l’esecuzione migliore in modo da 
 In particolare, il progetto nasce da una collaborazione tra l’Istituto Ortopedico Rizzoli e il Dipartimento di Ingegneria Industriale di Bologna
 e sfrutta il dispositivo Leap Motion per mostrare ai medici un’anteprima del suo funzionamento in un ambiente Mixed Reality.
 
-Per informazioni più dettagliate vedi il "Tesi.pdf".
-E' presente anche un breve video illustrativo dell'applicazione in fase di riconoscimento di un piede e manipolazione 
-del corrispettivo oggetto virtuale tridimensionale.
+Per informazioni più dettagliate vedi https://github.com/PaoloCaligiana/MixedRealityTrackingCut/blob/main/Tesi.pdf
+
+
+NB:
+Per poter utilizzare correttamente l'applicazione, è necessario disporre del Leap Motion, abilitare la webcam e inquadrare l'oggetto tridimensionale di interesse, che deve essere caricato nel progetto per effettuare il tracking (nel progetto è già caricato il Model Target virtuale delle ossa di un piede, e inquadrando il corrispettivo oggetto fisico stampato con stampante 3D, avviene il tracking dell'oggetto che può così essere manipolato). 
+Vedi video illustrativo: https://github.com/PaoloCaligiana/MixedRealityTrackingCut/blob/main/FilmatoSottotitoli.mp4
